@@ -1,0 +1,4 @@
+#Internally curated list of Raw IPs for the firewall block list.
+#Example format for IP's or ranges (one per line):
+#x.x.x.x
+#x.x.x.x/24
